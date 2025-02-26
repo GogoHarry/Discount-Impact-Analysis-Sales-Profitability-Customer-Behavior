@@ -1,4 +1,4 @@
-# Discount-Impact-Analysis-Sales-Profitability-Customer-Behavior
+# Discount Impact Analysis: Optimizing Discount Strategies for Sustainable Growth
 
 ![sales_can](https://github.com/user-attachments/assets/a00b262c-d870-4df0-828b-7eb2a8c2a8bb)
 
